@@ -1,0 +1,1 @@
+# mmcls_multi_label_torchserve
